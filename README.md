@@ -12,7 +12,7 @@ I'm a Python developer focused on web development and automation. I enjoy solvin
 - Other Technologies: Redis, Git, REST API, HTML, CSS
 
 🛠 My Projects
-TypeFlow – An interactive web application to improve typing skills.
+- TypeFlow – An interactive web application to improve typing skills.
 . . .
   
 📫 Contact Me
