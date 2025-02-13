@@ -16,8 +16,8 @@ TypeFlow – An interactive web application to improve typing skills.
 . . .
   
 📫 Contact Me
-GitHub: @sserebrinka
-Email: lenaignatyeva77@gmail.com
-Telegram: @srbrkk
+GitHub: @sserebrinka  
+Email: lenaignatyeva77@gmail.com  
+Telegram: @srbrkk  
 
 Keep learning and growing! 🌱
