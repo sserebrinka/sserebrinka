@@ -10,14 +10,14 @@ I'm a Python developer focused on web development and automation. I enjoy solvin
 - Data Processing: Pandas, NumPy
 - Containerization & DevOps: Docker, CI/CD
 - Other Technologies: Redis, Git, REST API, HTML, CSS
-- 
+
 🛠 My Projects
 TypeFlow – An interactive web application to improve typing skills.
 . . .
   
 📫 Contact Me
-GitHub: @sserebrinka  
-Email: lenaignatyeva77@gmail.com  
-Telegram: @srbrkk  
+- GitHub: @sserebrinka  
+- Email: lenaignatyeva77@gmail.com  
+- Telegram: @srbrkk  
 
 Keep learning and growing! 🌱
