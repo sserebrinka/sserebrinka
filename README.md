@@ -12,12 +12,16 @@ I'm a Python developer focused on web development and automation. I enjoy solvin
 - Other Technologies: Redis, Git, REST API, HTML, CSS
 
 🛠 My Projects
-- TypeFlow – An interactive web application to improve typing skills.
-. . .
+- ⌨️TypeFlow - Website for learning cursive typing
+- 🎀CuteLane - Online store with cute clothes
+- ☢️StalkerCase - (In development...)
+- 💧DrinkWater - water tracker written using Tkinter
+- ⏰AlarmClock - a simple alarm clock written using Tkinter
+- 🔮The magic ball - a magic ball that predicts your fate (also written with Tkinter)
   
 📫 Contact Me
 - GitHub: @sserebrinka  
 - Email: lenaignatyeva77@gmail.com  
 - Telegram: @srbrkk  
 
-Keep learning and growing! 🌱
+#Keep learning and growing! 🌱
