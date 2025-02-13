@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👩‍💻 About me
+👩‍💻 About me  
 I'm a Python developer focused on web development and automation. I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
 
 🚀 Technologies & Skills
