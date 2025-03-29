@@ -7,6 +7,7 @@ I'm a Python developer focused on web development and automation. I enjoy solvin
 - Programming Languages: Python, JavaScript
 - Frameworks & Libraries: Django, Django REST Framework
 - Databases: PostgreSQL, SQL
+- Testing: Pytest, Selenium Webdriver
 - Asynchronous Programming: Asyncio
 - Data Processing: Pandas, NumPy
 - Containerization & DevOps: Docker, CI/CD
